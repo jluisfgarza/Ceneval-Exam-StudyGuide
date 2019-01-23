@@ -1,4 +1,4 @@
-![NorthwindSchema](/img/NorthwindSchema.jpg)
+![NorthwindSchema](img/NorthwindSchema.jpg)
 
 > 1. List product name
 
